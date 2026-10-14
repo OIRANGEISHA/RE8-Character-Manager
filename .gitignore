@@ -1,0 +1,11 @@
+data/
+mods/
+tests/
+outputs/
+*.exe
+*.zip
+*.pdb
+last_error.txt
+test_report.json
+read_only_game_scan.json
+ui_preview.png
